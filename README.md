@@ -29,6 +29,7 @@
   </tr>
 </table>
 <hr>
+
 ## Design Steps:
 
 ### STEP 1:Identifying the input:
@@ -233,4 +234,4 @@ print(agent.performance)
 ## output
 ![306545580-a7d862b7-ef5f-4b18-aed8-f1ae7a8a40d7](https://github.com/logeshwari2004/19AI405ExpNo1/assets/94211349/b5be02e6-d871-45a5-a2d4-81b78264187f)
 ## Result
-      Thus to find the PEAS description for the given AI problem and develop an AI agent was successfully executed.
+Thus to find the PEAS description for the given AI problem and develop an AI agent was successfully executed.
